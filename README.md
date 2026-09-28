@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zc-RUC/Zc-RUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 你好，我是张翀 👋
 
-Here are some ideas to get you started:
+### HR × AI × 数据研究
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+中国人民大学经管交叉实验班本科生 · 关注人才、组织与技术的交叉
+
+[我的项目](#-精选项目) · [研究与实践](#-研究与实践) · [GitHub](https://github.com/Zc-RUC)
+
+</div>
+
+---
+
+> 我喜欢从真实问题出发：理解业务流程，整理数据与证据，再把想法做成能用的工具。
+
+## ✨ 关于我
+
+我在中国人民大学学习经管交叉领域的知识，也在招聘、人才研究和行业分析中积累一线经验。最近的关注点是 **AI 如何帮助 HR 减少重复工作**，以及如何用 **数据和实证方法** 回答劳动与企业问题。
+
+- 🎓 **学习**：中国人民大学经管交叉实验班，2023 年入学
+- 🧭 **实践**：AI 团队招聘与人才 Mapping、投资运营、行业研究
+- 🔬 **研究**：年龄歧视与企业绩效、财税政策与供应链韧性、可持续农业建模
+- 🛠️ **工具**：Python、Stata、Excel、Wind、iFinD、Bloomberg、LaTeX
+
+## 🚀 精选项目
+
+| 项目 | 我在解决什么问题 | 技术与方法 |
+| --- | --- | --- |
+| [招聘人才 Mapping 工具](https://github.com/Zc-RUC/Mapping-) | 探索自动收集和整理公开人才信息，减少 HR 人才搜寻中的重复工作 | Python · 信息整理 |
+| [个人网站](https://github.com/Zc-RUC/CV) | 用一个轻量的网页集中展示个人经历与作品 | HTML · CSS |
+
+## 🔎 研究与实践
+
+### 人才与组织
+
+在 AI 团队招聘工作中，我参与校招与社招、人才 Mapping 和人才报告，并尝试开发辅助 Mapping 与简历筛选的 AI 工具。对我来说，工具的价值是让人把更多时间花在判断、沟通和核验上。
+
+### 实证研究
+
+| 研究主题 | 我的参与和方法 |
+| --- | --- |
+| **“35 岁门槛”与企业绩效** | 参与使用企业招聘文本研究年龄歧视的影响；获中国人民大学“求是学术”首善立项 |
+| **留抵退税与供应链韧性** | 参与上市公司数据分析，运用双重差分等方法；获中国人民大学“创新杯”一等奖 |
+| **可持续农业建模** | 参与数据预处理、可视化与论文撰写；获 2024 年美国大学生数学建模竞赛 S 奖 |
+
+### 行业观察
+
+在投资运营与行业研究实习中，我持续关注 **AI、具身智能、半导体和先进制造**，整理公司、融资与产业资料，并参与访谈和研究写作。
+
+## 🧰 我的工具箱
+
+**数据与研究** `Python` `Stata` `Excel` `Wind` `iFinD` `Bloomberg`  
+**表达与制作** `LaTeX` `PowerPoint` `HTML` `CSS`  
+**工作方法** 数据清洗 · 人才 Mapping · 访谈纪要 · 实证分析 · 可视化
+
+---
+
+<div align="center">
+
+**从一线问题出发，用数据验证，用工具交付。**
+
+[查看我的 GitHub 项目](https://github.com/Zc-RUC?tab=repositories)
+
+</div>
